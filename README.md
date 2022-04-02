@@ -18,9 +18,9 @@ Repository ini dibuat dalam rangka memenuhi Tugas Kecil 3 Mata Kuliah Strategi A
 
 Repository ini terdiri dari 2 <i> child directory </i> dan satu file README.
 
-1. `**doc**` yang berisi file laporan tugas.
-2. `**src**` yang berisi <i>source code</i> program yang dibutuhkan untuk mengeksekusi program.
-3. `**README.md**`
+1. `doc` yang berisi file laporan tugas.
+2. `src` yang berisi <i>source code</i> program yang dibutuhkan untuk mengeksekusi program.
+3. `README.md`
 
 ## Requirements
 
@@ -29,7 +29,7 @@ Untuk dapat menjalankan program ini, Anda diharuskan memiliki program <b>python<
 
 > <div style="text-align: justify">Penggunaan <i>import</i> dalam program ini seharusnya sudah ditangani oleh versi python sesuai spesifikasi di atas.</div>
 
-# How to Use
+## How to Use
 
 1. <i>Clone</i> [repositor ini](https://github.com/irsyadazka/15PuzzleSolver.git) ke direktori Anda.
 2. <div style="text-align: justify">Buka terminal atau command prompt pada folder tempat Anda melakukan <i>clone</i> di perangkat Anda</div>
