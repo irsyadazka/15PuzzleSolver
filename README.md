@@ -31,7 +31,7 @@ Untuk dapat menjalankan program ini, Anda diharuskan memiliki program <b>python<
 
 ## How to Use
 
-1. <i>Clone</i> [repositor ini](https://github.com/irsyadazka/15PuzzleSolver.git) ke direktori Anda.
+1. <i>Clone</i> [repository ini](https://github.com/irsyadazka/Tucil3_13520107.git) ke direktori Anda.
 2. <div style="text-align: justify">Buka terminal atau command prompt pada folder tempat Anda melakukan <i>clone</i> di perangkat Anda</div>
 3. <div style="text-align: justify">Ketikkan ini pada terminal atau command prompt untuk melakukan <i>run</i></div>
 
